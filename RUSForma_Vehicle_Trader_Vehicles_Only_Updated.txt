@@ -83,7 +83,7 @@
 		moskvich_407_double_blue,	 VNK, 				400000,		 400000
 		moskvich_407_grey,			 VNK, 				400000,		 400000
 		GAZ21_Volga,				 VNK, 				400000,		 400000
-		GAZ21_Volga_black			 VNK, 				400000,		 400000
+		GAZ21_Volga_black,			 VNK, 				400000,		 400000
 		GAZ21_Volga_green,			 VNK, 				400000,		 400000
 		GAZ_13_Chaika,				 VNK, 				400000,		 400000
 		GAZ_13_Chaika_black_rust,	 VNK, 				400000,		 400000
